@@ -6,7 +6,7 @@ description: M.Sc student @ <a href="https://www.umontreal.ca/en/"> Université 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: axel.jpg
   address: >
     <p>Montréal, QC, Canada</p>
 
