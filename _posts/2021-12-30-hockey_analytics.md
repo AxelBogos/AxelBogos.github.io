@@ -31,7 +31,7 @@ compared to the league average. We then walkthrough a simple guide for querying 
 towards visualizations such as the one below. Finally, we provide a few other static visualizations of the relationships
 between goals, shot types and shot distance. <br><br>
 **Warning, the interactive visualization below takes a little while to load (~45 seconds),
-hang in there!**
+hang in there! If your browser warns that the page has become unresponsive, click `wait`. I swear it's worth it :smiley:**
 ## Visualization
 Lets start with the main show before jumping into the walkthrough to get there.
 <br><br>
