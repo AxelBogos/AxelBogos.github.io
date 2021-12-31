@@ -21,5 +21,5 @@ Boosted Machine (henceforth referred to as LGBM) and Extreme Gradient Boosting (
 finally discuss the evaluation methodology, results and possible future improvements.
 
 ## Report
-
+<iframe src="/assets/pdf/extreme_weather_events.pdf" style="width:800px; height:800px;"></iframe>
 Thumbnail source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Evolution_of_a_Tornado.jpg)
