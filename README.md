@@ -337,7 +337,7 @@ Easily create beautiful grids within your blog posts and project pages:
 
 <p align="center">
   <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
+    <img src="assets/img/template_imgs/photos-screenshot.png" width="75%">
   </a>
 </p>
 

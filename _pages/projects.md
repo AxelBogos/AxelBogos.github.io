@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: TODO, just placeholders
+description: A few projects...
 nav: true
-display_categories: [work, fun]
+display_categories: [ML/DL, fun]
 horizontal: false
 ---
 <div class="projects">
