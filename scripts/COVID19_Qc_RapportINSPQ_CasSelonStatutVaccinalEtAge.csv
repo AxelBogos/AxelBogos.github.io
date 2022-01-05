@@ -2124,7 +2124,7 @@
 2021-09-20,30-39 ans,Vacciné 1 dose,5
 2021-09-20,30-39 ans,Vacciné 2 doses,31
 2021-09-20,40-49 ans,Non-vacciné,38
-2021-09-20,40-49 ans,Vacciné 1 dose,5
+2021-09-20,40-49 ans,Vacciné 1 dose,4
 2021-09-20,40-49 ans,Vacciné 2 doses,29
 2021-09-20,50-59 ans,Non-vacciné,17
 2021-09-20,50-59 ans,Vacciné 1 dose,4
@@ -4429,7 +4429,7 @@
 2021-11-29,10-19 ans,Vacciné 2 doses,24
 2021-11-29,20-29 ans,Non-vacciné,17
 2021-11-29,20-29 ans,Vacciné 1 dose,0
-2021-11-29,20-29 ans,Vacciné 2 doses,36
+2021-11-29,20-29 ans,Vacciné 2 doses,37
 2021-11-29,30-39 ans,Non-vacciné,47
 2021-11-29,30-39 ans,Vacciné 1 dose,3
 2021-11-29,30-39 ans,Vacciné 2 doses,95
@@ -4438,7 +4438,7 @@
 2021-11-29,40-49 ans,Vacciné 2 doses,106
 2021-11-29,50-59 ans,Non-vacciné,21
 2021-11-29,50-59 ans,Vacciné 1 dose,4
-2021-11-29,50-59 ans,Vacciné 2 doses,52
+2021-11-29,50-59 ans,Vacciné 2 doses,53
 2021-11-29,60-69 ans,Non-vacciné,6
 2021-11-29,60-69 ans,Vacciné 1 dose,0
 2021-11-29,60-69 ans,Vacciné 2 doses,47
@@ -4471,7 +4471,7 @@
 2021-11-30,40-49 ans,Vacciné 2 doses,129
 2021-11-30,50-59 ans,Non-vacciné,21
 2021-11-30,50-59 ans,Vacciné 1 dose,2
-2021-11-30,50-59 ans,Vacciné 2 doses,79
+2021-11-30,50-59 ans,Vacciné 2 doses,81
 2021-11-30,60-69 ans,Non-vacciné,11
 2021-11-30,60-69 ans,Vacciné 1 dose,0
 2021-11-30,60-69 ans,Vacciné 2 doses,58
@@ -5029,7 +5029,7 @@
 2021-12-17,30-39 ans,Vacciné 2 doses,649
 2021-12-17,40-49 ans,Non-vacciné,59
 2021-12-17,40-49 ans,Vacciné 1 dose,10
-2021-12-17,40-49 ans,Vacciné 2 doses,622
+2021-12-17,40-49 ans,Vacciné 2 doses,624
 2021-12-17,50-59 ans,Non-vacciné,47
 2021-12-17,50-59 ans,Vacciné 1 dose,3
 2021-12-17,50-59 ans,Vacciné 2 doses,397
@@ -5059,7 +5059,7 @@
 2021-12-18,20-29 ans,Vacciné 2 doses,642
 2021-12-18,30-39 ans,Non-vacciné,112
 2021-12-18,30-39 ans,Vacciné 1 dose,11
-2021-12-18,30-39 ans,Vacciné 2 doses,758
+2021-12-18,30-39 ans,Vacciné 2 doses,759
 2021-12-18,40-49 ans,Non-vacciné,75
 2021-12-18,40-49 ans,Vacciné 1 dose,10
 2021-12-18,40-49 ans,Vacciné 2 doses,654
@@ -5087,12 +5087,12 @@
 2021-12-19,10-19 ans,Non-vacciné,195
 2021-12-19,10-19 ans,Vacciné 1 dose,99
 2021-12-19,10-19 ans,Vacciné 2 doses,307
-2021-12-19,20-29 ans,Non-vacciné,83
+2021-12-19,20-29 ans,Non-vacciné,84
 2021-12-19,20-29 ans,Vacciné 1 dose,8
 2021-12-19,20-29 ans,Vacciné 2 doses,665
-2021-12-19,30-39 ans,Non-vacciné,95
+2021-12-19,30-39 ans,Non-vacciné,96
 2021-12-19,30-39 ans,Vacciné 1 dose,12
-2021-12-19,30-39 ans,Vacciné 2 doses,675
+2021-12-19,30-39 ans,Vacciné 2 doses,676
 2021-12-19,40-49 ans,Non-vacciné,54
 2021-12-19,40-49 ans,Vacciné 1 dose,7
 2021-12-19,40-49 ans,Vacciné 2 doses,616
@@ -5114,18 +5114,18 @@
 2021-12-19,Inconnu,Non-vacciné,0
 2021-12-19,Inconnu,Vacciné 1 dose,0
 2021-12-19,Inconnu,Vacciné 2 doses,0
-2021-12-20,0-9 ans,Non-vacciné,521
+2021-12-20,0-9 ans,Non-vacciné,522
 2021-12-20,0-9 ans,Vacciné 1 dose,103
 2021-12-20,0-9 ans,Vacciné 2 doses,0
 2021-12-20,10-19 ans,Non-vacciné,276
 2021-12-20,10-19 ans,Vacciné 1 dose,119
 2021-12-20,10-19 ans,Vacciné 2 doses,488
-2021-12-20,20-29 ans,Non-vacciné,95
+2021-12-20,20-29 ans,Non-vacciné,97
 2021-12-20,20-29 ans,Vacciné 1 dose,14
 2021-12-20,20-29 ans,Vacciné 2 doses,1049
 2021-12-20,30-39 ans,Non-vacciné,97
-2021-12-20,30-39 ans,Vacciné 1 dose,16
-2021-12-20,30-39 ans,Vacciné 2 doses,1024
+2021-12-20,30-39 ans,Vacciné 1 dose,17
+2021-12-20,30-39 ans,Vacciné 2 doses,1025
 2021-12-20,40-49 ans,Non-vacciné,80
 2021-12-20,40-49 ans,Vacciné 1 dose,7
 2021-12-20,40-49 ans,Vacciné 2 doses,849
@@ -5188,13 +5188,13 @@
 2021-12-22,10-19 ans,Vacciné 2 doses,940
 2021-12-22,20-29 ans,Non-vacciné,186
 2021-12-22,20-29 ans,Vacciné 1 dose,32
-2021-12-22,20-29 ans,Vacciné 2 doses,2507
+2021-12-22,20-29 ans,Vacciné 2 doses,2509
 2021-12-22,30-39 ans,Non-vacciné,184
 2021-12-22,30-39 ans,Vacciné 1 dose,29
 2021-12-22,30-39 ans,Vacciné 2 doses,1867
 2021-12-22,40-49 ans,Non-vacciné,103
 2021-12-22,40-49 ans,Vacciné 1 dose,13
-2021-12-22,40-49 ans,Vacciné 2 doses,1422
+2021-12-22,40-49 ans,Vacciné 2 doses,1424
 2021-12-22,50-59 ans,Non-vacciné,57
 2021-12-22,50-59 ans,Vacciné 1 dose,5
 2021-12-22,50-59 ans,Vacciné 2 doses,894
@@ -5213,27 +5213,27 @@
 2021-12-22,Inconnu,Non-vacciné,0
 2021-12-22,Inconnu,Vacciné 1 dose,0
 2021-12-22,Inconnu,Vacciné 2 doses,0
-2021-12-23,0-9 ans,Non-vacciné,619
+2021-12-23,0-9 ans,Non-vacciné,624
 2021-12-23,0-9 ans,Vacciné 1 dose,181
 2021-12-23,0-9 ans,Vacciné 2 doses,0
-2021-12-23,10-19 ans,Non-vacciné,236
-2021-12-23,10-19 ans,Vacciné 1 dose,148
-2021-12-23,10-19 ans,Vacciné 2 doses,1074
-2021-12-23,20-29 ans,Non-vacciné,235
+2021-12-23,10-19 ans,Non-vacciné,240
+2021-12-23,10-19 ans,Vacciné 1 dose,153
+2021-12-23,10-19 ans,Vacciné 2 doses,1076
+2021-12-23,20-29 ans,Non-vacciné,236
 2021-12-23,20-29 ans,Vacciné 1 dose,32
-2021-12-23,20-29 ans,Vacciné 2 doses,2970
+2021-12-23,20-29 ans,Vacciné 2 doses,2977
 2021-12-23,30-39 ans,Non-vacciné,139
 2021-12-23,30-39 ans,Vacciné 1 dose,31
-2021-12-23,30-39 ans,Vacciné 2 doses,1909
+2021-12-23,30-39 ans,Vacciné 2 doses,1913
 2021-12-23,40-49 ans,Non-vacciné,117
 2021-12-23,40-49 ans,Vacciné 1 dose,14
-2021-12-23,40-49 ans,Vacciné 2 doses,1483
+2021-12-23,40-49 ans,Vacciné 2 doses,1488
 2021-12-23,50-59 ans,Non-vacciné,48
 2021-12-23,50-59 ans,Vacciné 1 dose,8
-2021-12-23,50-59 ans,Vacciné 2 doses,961
+2021-12-23,50-59 ans,Vacciné 2 doses,965
 2021-12-23,60-69 ans,Non-vacciné,23
 2021-12-23,60-69 ans,Vacciné 1 dose,3
-2021-12-23,60-69 ans,Vacciné 2 doses,532
+2021-12-23,60-69 ans,Vacciné 2 doses,534
 2021-12-23,70-79 ans,Non-vacciné,16
 2021-12-23,70-79 ans,Vacciné 1 dose,2
 2021-12-23,70-79 ans,Vacciné 2 doses,230
@@ -5246,129 +5246,129 @@
 2021-12-23,Inconnu,Non-vacciné,0
 2021-12-23,Inconnu,Vacciné 1 dose,0
 2021-12-23,Inconnu,Vacciné 2 doses,0
-2021-12-24,0-9 ans,Non-vacciné,509
-2021-12-24,0-9 ans,Vacciné 1 dose,151
+2021-12-24,0-9 ans,Non-vacciné,514
+2021-12-24,0-9 ans,Vacciné 1 dose,152
 2021-12-24,0-9 ans,Vacciné 2 doses,2
-2021-12-24,10-19 ans,Non-vacciné,225
+2021-12-24,10-19 ans,Non-vacciné,231
 2021-12-24,10-19 ans,Vacciné 1 dose,140
-2021-12-24,10-19 ans,Vacciné 2 doses,970
-2021-12-24,20-29 ans,Non-vacciné,178
-2021-12-24,20-29 ans,Vacciné 1 dose,33
-2021-12-24,20-29 ans,Vacciné 2 doses,2599
-2021-12-24,30-39 ans,Non-vacciné,189
-2021-12-24,30-39 ans,Vacciné 1 dose,30
-2021-12-24,30-39 ans,Vacciné 2 doses,1685
-2021-12-24,40-49 ans,Non-vacciné,99
+2021-12-24,10-19 ans,Vacciné 2 doses,998
+2021-12-24,20-29 ans,Non-vacciné,183
+2021-12-24,20-29 ans,Vacciné 1 dose,35
+2021-12-24,20-29 ans,Vacciné 2 doses,2657
+2021-12-24,30-39 ans,Non-vacciné,192
+2021-12-24,30-39 ans,Vacciné 1 dose,32
+2021-12-24,30-39 ans,Vacciné 2 doses,1718
+2021-12-24,40-49 ans,Non-vacciné,100
 2021-12-24,40-49 ans,Vacciné 1 dose,14
-2021-12-24,40-49 ans,Vacciné 2 doses,1338
-2021-12-24,50-59 ans,Non-vacciné,46
+2021-12-24,40-49 ans,Vacciné 2 doses,1369
+2021-12-24,50-59 ans,Non-vacciné,47
 2021-12-24,50-59 ans,Vacciné 1 dose,9
-2021-12-24,50-59 ans,Vacciné 2 doses,874
+2021-12-24,50-59 ans,Vacciné 2 doses,899
 2021-12-24,60-69 ans,Non-vacciné,19
 2021-12-24,60-69 ans,Vacciné 1 dose,1
-2021-12-24,60-69 ans,Vacciné 2 doses,494
-2021-12-24,70-79 ans,Non-vacciné,9
+2021-12-24,60-69 ans,Vacciné 2 doses,509
+2021-12-24,70-79 ans,Non-vacciné,10
 2021-12-24,70-79 ans,Vacciné 1 dose,0
-2021-12-24,70-79 ans,Vacciné 2 doses,163
+2021-12-24,70-79 ans,Vacciné 2 doses,166
 2021-12-24,80-89 ans,Non-vacciné,7
 2021-12-24,80-89 ans,Vacciné 1 dose,1
-2021-12-24,80-89 ans,Vacciné 2 doses,88
-2021-12-24,90 ans et plus,Non-vacciné,6
+2021-12-24,80-89 ans,Vacciné 2 doses,89
+2021-12-24,90 ans et plus,Non-vacciné,5
 2021-12-24,90 ans et plus,Vacciné 1 dose,1
-2021-12-24,90 ans et plus,Vacciné 2 doses,46
+2021-12-24,90 ans et plus,Vacciné 2 doses,47
 2021-12-24,Inconnu,Non-vacciné,0
 2021-12-24,Inconnu,Vacciné 1 dose,0
 2021-12-24,Inconnu,Vacciné 2 doses,0
-2021-12-25,0-9 ans,Non-vacciné,508
-2021-12-25,0-9 ans,Vacciné 1 dose,157
+2021-12-25,0-9 ans,Non-vacciné,513
+2021-12-25,0-9 ans,Vacciné 1 dose,159
 2021-12-25,0-9 ans,Vacciné 2 doses,0
-2021-12-25,10-19 ans,Non-vacciné,201
-2021-12-25,10-19 ans,Vacciné 1 dose,123
-2021-12-25,10-19 ans,Vacciné 2 doses,938
-2021-12-25,20-29 ans,Non-vacciné,198
+2021-12-25,10-19 ans,Non-vacciné,207
+2021-12-25,10-19 ans,Vacciné 1 dose,127
+2021-12-25,10-19 ans,Vacciné 2 doses,955
+2021-12-25,20-29 ans,Non-vacciné,199
 2021-12-25,20-29 ans,Vacciné 1 dose,30
-2021-12-25,20-29 ans,Vacciné 2 doses,2334
-2021-12-25,30-39 ans,Non-vacciné,157
-2021-12-25,30-39 ans,Vacciné 1 dose,39
-2021-12-25,30-39 ans,Vacciné 2 doses,1628
-2021-12-25,40-49 ans,Non-vacciné,102
+2021-12-25,20-29 ans,Vacciné 2 doses,2370
+2021-12-25,30-39 ans,Non-vacciné,161
+2021-12-25,30-39 ans,Vacciné 1 dose,41
+2021-12-25,30-39 ans,Vacciné 2 doses,1645
+2021-12-25,40-49 ans,Non-vacciné,104
 2021-12-25,40-49 ans,Vacciné 1 dose,19
-2021-12-25,40-49 ans,Vacciné 2 doses,1282
+2021-12-25,40-49 ans,Vacciné 2 doses,1299
 2021-12-25,50-59 ans,Non-vacciné,63
 2021-12-25,50-59 ans,Vacciné 1 dose,4
-2021-12-25,50-59 ans,Vacciné 2 doses,923
+2021-12-25,50-59 ans,Vacciné 2 doses,937
 2021-12-25,60-69 ans,Non-vacciné,20
 2021-12-25,60-69 ans,Vacciné 1 dose,2
-2021-12-25,60-69 ans,Vacciné 2 doses,479
+2021-12-25,60-69 ans,Vacciné 2 doses,486
 2021-12-25,70-79 ans,Non-vacciné,9
 2021-12-25,70-79 ans,Vacciné 1 dose,1
-2021-12-25,70-79 ans,Vacciné 2 doses,166
+2021-12-25,70-79 ans,Vacciné 2 doses,167
 2021-12-25,80-89 ans,Non-vacciné,10
 2021-12-25,80-89 ans,Vacciné 1 dose,0
 2021-12-25,80-89 ans,Vacciné 2 doses,89
 2021-12-25,90 ans et plus,Non-vacciné,2
 2021-12-25,90 ans et plus,Vacciné 1 dose,0
-2021-12-25,90 ans et plus,Vacciné 2 doses,41
+2021-12-25,90 ans et plus,Vacciné 2 doses,42
 2021-12-25,Inconnu,Non-vacciné,0
 2021-12-25,Inconnu,Vacciné 1 dose,0
 2021-12-25,Inconnu,Vacciné 2 doses,0
-2021-12-26,0-9 ans,Non-vacciné,469
+2021-12-26,0-9 ans,Non-vacciné,470
 2021-12-26,0-9 ans,Vacciné 1 dose,177
 2021-12-26,0-9 ans,Vacciné 2 doses,4
 2021-12-26,10-19 ans,Non-vacciné,177
 2021-12-26,10-19 ans,Vacciné 1 dose,173
-2021-12-26,10-19 ans,Vacciné 2 doses,1044
-2021-12-26,20-29 ans,Non-vacciné,210
-2021-12-26,20-29 ans,Vacciné 1 dose,38
-2021-12-26,20-29 ans,Vacciné 2 doses,2224
-2021-12-26,30-39 ans,Non-vacciné,185
+2021-12-26,10-19 ans,Vacciné 2 doses,1047
+2021-12-26,20-29 ans,Non-vacciné,212
+2021-12-26,20-29 ans,Vacciné 1 dose,39
+2021-12-26,20-29 ans,Vacciné 2 doses,2229
+2021-12-26,30-39 ans,Non-vacciné,186
 2021-12-26,30-39 ans,Vacciné 1 dose,28
-2021-12-26,30-39 ans,Vacciné 2 doses,1623
+2021-12-26,30-39 ans,Vacciné 2 doses,1626
 2021-12-26,40-49 ans,Non-vacciné,89
 2021-12-26,40-49 ans,Vacciné 1 dose,16
-2021-12-26,40-49 ans,Vacciné 2 doses,1542
+2021-12-26,40-49 ans,Vacciné 2 doses,1544
 2021-12-26,50-59 ans,Non-vacciné,70
 2021-12-26,50-59 ans,Vacciné 1 dose,5
-2021-12-26,50-59 ans,Vacciné 2 doses,1049
+2021-12-26,50-59 ans,Vacciné 2 doses,1054
 2021-12-26,60-69 ans,Non-vacciné,22
 2021-12-26,60-69 ans,Vacciné 1 dose,4
-2021-12-26,60-69 ans,Vacciné 2 doses,542
+2021-12-26,60-69 ans,Vacciné 2 doses,544
 2021-12-26,70-79 ans,Non-vacciné,7
 2021-12-26,70-79 ans,Vacciné 1 dose,1
-2021-12-26,70-79 ans,Vacciné 2 doses,232
+2021-12-26,70-79 ans,Vacciné 2 doses,233
 2021-12-26,80-89 ans,Non-vacciné,5
 2021-12-26,80-89 ans,Vacciné 1 dose,5
-2021-12-26,80-89 ans,Vacciné 2 doses,84
+2021-12-26,80-89 ans,Vacciné 2 doses,85
 2021-12-26,90 ans et plus,Non-vacciné,5
 2021-12-26,90 ans et plus,Vacciné 1 dose,1
 2021-12-26,90 ans et plus,Vacciné 2 doses,38
 2021-12-26,Inconnu,Non-vacciné,0
 2021-12-26,Inconnu,Vacciné 1 dose,0
 2021-12-26,Inconnu,Vacciné 2 doses,0
-2021-12-27,0-9 ans,Non-vacciné,562
+2021-12-27,0-9 ans,Non-vacciné,563
 2021-12-27,0-9 ans,Vacciné 1 dose,179
 2021-12-27,0-9 ans,Vacciné 2 doses,2
-2021-12-27,10-19 ans,Non-vacciné,234
-2021-12-27,10-19 ans,Vacciné 1 dose,160
-2021-12-27,10-19 ans,Vacciné 2 doses,1096
+2021-12-27,10-19 ans,Non-vacciné,235
+2021-12-27,10-19 ans,Vacciné 1 dose,161
+2021-12-27,10-19 ans,Vacciné 2 doses,1097
 2021-12-27,20-29 ans,Non-vacciné,241
 2021-12-27,20-29 ans,Vacciné 1 dose,56
-2021-12-27,20-29 ans,Vacciné 2 doses,2359
+2021-12-27,20-29 ans,Vacciné 2 doses,2365
 2021-12-27,30-39 ans,Non-vacciné,204
 2021-12-27,30-39 ans,Vacciné 1 dose,27
-2021-12-27,30-39 ans,Vacciné 2 doses,1804
+2021-12-27,30-39 ans,Vacciné 2 doses,1806
 2021-12-27,40-49 ans,Non-vacciné,130
 2021-12-27,40-49 ans,Vacciné 1 dose,23
-2021-12-27,40-49 ans,Vacciné 2 doses,1725
+2021-12-27,40-49 ans,Vacciné 2 doses,1728
 2021-12-27,50-59 ans,Non-vacciné,55
-2021-12-27,50-59 ans,Vacciné 1 dose,16
-2021-12-27,50-59 ans,Vacciné 2 doses,1283
+2021-12-27,50-59 ans,Vacciné 1 dose,17
+2021-12-27,50-59 ans,Vacciné 2 doses,1284
 2021-12-27,60-69 ans,Non-vacciné,32
 2021-12-27,60-69 ans,Vacciné 1 dose,1
-2021-12-27,60-69 ans,Vacciné 2 doses,636
+2021-12-27,60-69 ans,Vacciné 2 doses,638
 2021-12-27,70-79 ans,Non-vacciné,10
 2021-12-27,70-79 ans,Vacciné 1 dose,2
-2021-12-27,70-79 ans,Vacciné 2 doses,241
+2021-12-27,70-79 ans,Vacciné 2 doses,242
 2021-12-27,80-89 ans,Non-vacciné,11
 2021-12-27,80-89 ans,Vacciné 1 dose,1
 2021-12-27,80-89 ans,Vacciné 2 doses,121
@@ -5379,134 +5379,167 @@
 2021-12-27,Inconnu,Vacciné 1 dose,0
 2021-12-27,Inconnu,Vacciné 2 doses,0
 2021-12-28,0-9 ans,Non-vacciné,604
-2021-12-28,0-9 ans,Vacciné 1 dose,203
+2021-12-28,0-9 ans,Vacciné 1 dose,204
 2021-12-28,0-9 ans,Vacciné 2 doses,0
-2021-12-28,10-19 ans,Non-vacciné,218
-2021-12-28,10-19 ans,Vacciné 1 dose,186
-2021-12-28,10-19 ans,Vacciné 2 doses,1143
+2021-12-28,10-19 ans,Non-vacciné,220
+2021-12-28,10-19 ans,Vacciné 1 dose,187
+2021-12-28,10-19 ans,Vacciné 2 doses,1149
 2021-12-28,20-29 ans,Non-vacciné,307
 2021-12-28,20-29 ans,Vacciné 1 dose,58
-2021-12-28,20-29 ans,Vacciné 2 doses,2562
+2021-12-28,20-29 ans,Vacciné 2 doses,2568
 2021-12-28,30-39 ans,Non-vacciné,262
 2021-12-28,30-39 ans,Vacciné 1 dose,49
-2021-12-28,30-39 ans,Vacciné 2 doses,2054
+2021-12-28,30-39 ans,Vacciné 2 doses,2058
 2021-12-28,40-49 ans,Non-vacciné,152
 2021-12-28,40-49 ans,Vacciné 1 dose,21
-2021-12-28,40-49 ans,Vacciné 2 doses,1924
+2021-12-28,40-49 ans,Vacciné 2 doses,1930
 2021-12-28,50-59 ans,Non-vacciné,85
 2021-12-28,50-59 ans,Vacciné 1 dose,13
-2021-12-28,50-59 ans,Vacciné 2 doses,1505
+2021-12-28,50-59 ans,Vacciné 2 doses,1510
 2021-12-28,60-69 ans,Non-vacciné,38
 2021-12-28,60-69 ans,Vacciné 1 dose,3
-2021-12-28,60-69 ans,Vacciné 2 doses,816
+2021-12-28,60-69 ans,Vacciné 2 doses,820
 2021-12-28,70-79 ans,Non-vacciné,15
 2021-12-28,70-79 ans,Vacciné 1 dose,1
-2021-12-28,70-79 ans,Vacciné 2 doses,328
-2021-12-28,80-89 ans,Non-vacciné,11
+2021-12-28,70-79 ans,Vacciné 2 doses,330
+2021-12-28,80-89 ans,Non-vacciné,12
 2021-12-28,80-89 ans,Vacciné 1 dose,0
-2021-12-28,80-89 ans,Vacciné 2 doses,183
+2021-12-28,80-89 ans,Vacciné 2 doses,185
 2021-12-28,90 ans et plus,Non-vacciné,8
 2021-12-28,90 ans et plus,Vacciné 1 dose,0
 2021-12-28,90 ans et plus,Vacciné 2 doses,104
 2021-12-28,Inconnu,Non-vacciné,0
 2021-12-28,Inconnu,Vacciné 1 dose,0
 2021-12-28,Inconnu,Vacciné 2 doses,0
-2021-12-29,0-9 ans,Non-vacciné,747
+2021-12-29,0-9 ans,Non-vacciné,750
 2021-12-29,0-9 ans,Vacciné 1 dose,308
 2021-12-29,0-9 ans,Vacciné 2 doses,2
-2021-12-29,10-19 ans,Non-vacciné,288
-2021-12-29,10-19 ans,Vacciné 1 dose,193
-2021-12-29,10-19 ans,Vacciné 2 doses,1390
-2021-12-29,20-29 ans,Non-vacciné,338
+2021-12-29,10-19 ans,Non-vacciné,289
+2021-12-29,10-19 ans,Vacciné 1 dose,197
+2021-12-29,10-19 ans,Vacciné 2 doses,1402
+2021-12-29,20-29 ans,Non-vacciné,340
 2021-12-29,20-29 ans,Vacciné 1 dose,78
-2021-12-29,20-29 ans,Vacciné 2 doses,2901
-2021-12-29,30-39 ans,Non-vacciné,264
+2021-12-29,20-29 ans,Vacciné 2 doses,2918
+2021-12-29,30-39 ans,Non-vacciné,268
 2021-12-29,30-39 ans,Vacciné 1 dose,56
-2021-12-29,30-39 ans,Vacciné 2 doses,2335
+2021-12-29,30-39 ans,Vacciné 2 doses,2357
 2021-12-29,40-49 ans,Non-vacciné,204
 2021-12-29,40-49 ans,Vacciné 1 dose,40
-2021-12-29,40-49 ans,Vacciné 2 doses,2467
-2021-12-29,50-59 ans,Non-vacciné,107
+2021-12-29,40-49 ans,Vacciné 2 doses,2483
+2021-12-29,50-59 ans,Non-vacciné,108
 2021-12-29,50-59 ans,Vacciné 1 dose,24
-2021-12-29,50-59 ans,Vacciné 2 doses,1913
+2021-12-29,50-59 ans,Vacciné 2 doses,1926
 2021-12-29,60-69 ans,Non-vacciné,58
 2021-12-29,60-69 ans,Vacciné 1 dose,11
-2021-12-29,60-69 ans,Vacciné 2 doses,1026
+2021-12-29,60-69 ans,Vacciné 2 doses,1031
 2021-12-29,70-79 ans,Non-vacciné,26
 2021-12-29,70-79 ans,Vacciné 1 dose,5
-2021-12-29,70-79 ans,Vacciné 2 doses,422
-2021-12-29,80-89 ans,Non-vacciné,12
+2021-12-29,70-79 ans,Vacciné 2 doses,428
+2021-12-29,80-89 ans,Non-vacciné,13
 2021-12-29,80-89 ans,Vacciné 1 dose,2
-2021-12-29,80-89 ans,Vacciné 2 doses,238
+2021-12-29,80-89 ans,Vacciné 2 doses,241
 2021-12-29,90 ans et plus,Non-vacciné,6
 2021-12-29,90 ans et plus,Vacciné 1 dose,3
-2021-12-29,90 ans et plus,Vacciné 2 doses,97
+2021-12-29,90 ans et plus,Vacciné 2 doses,99
 2021-12-29,Inconnu,Non-vacciné,0
 2021-12-29,Inconnu,Vacciné 1 dose,0
 2021-12-29,Inconnu,Vacciné 2 doses,0
-2021-12-30,0-9 ans,Non-vacciné,695
-2021-12-30,0-9 ans,Vacciné 1 dose,255
+2021-12-30,0-9 ans,Non-vacciné,714
+2021-12-30,0-9 ans,Vacciné 1 dose,273
 2021-12-30,0-9 ans,Vacciné 2 doses,3
-2021-12-30,10-19 ans,Non-vacciné,245
-2021-12-30,10-19 ans,Vacciné 1 dose,202
-2021-12-30,10-19 ans,Vacciné 2 doses,1264
-2021-12-30,20-29 ans,Non-vacciné,330
-2021-12-30,20-29 ans,Vacciné 1 dose,71
-2021-12-30,20-29 ans,Vacciné 2 doses,2674
-2021-12-30,30-39 ans,Non-vacciné,259
-2021-12-30,30-39 ans,Vacciné 1 dose,46
-2021-12-30,30-39 ans,Vacciné 2 doses,2249
-2021-12-30,40-49 ans,Non-vacciné,191
-2021-12-30,40-49 ans,Vacciné 1 dose,46
-2021-12-30,40-49 ans,Vacciné 2 doses,2231
-2021-12-30,50-59 ans,Non-vacciné,142
+2021-12-30,10-19 ans,Non-vacciné,260
+2021-12-30,10-19 ans,Vacciné 1 dose,213
+2021-12-30,10-19 ans,Vacciné 2 doses,1317
+2021-12-30,20-29 ans,Non-vacciné,348
+2021-12-30,20-29 ans,Vacciné 1 dose,73
+2021-12-30,20-29 ans,Vacciné 2 doses,2819
+2021-12-30,30-39 ans,Non-vacciné,277
+2021-12-30,30-39 ans,Vacciné 1 dose,47
+2021-12-30,30-39 ans,Vacciné 2 doses,2355
+2021-12-30,40-49 ans,Non-vacciné,199
+2021-12-30,40-49 ans,Vacciné 1 dose,48
+2021-12-30,40-49 ans,Vacciné 2 doses,2358
+2021-12-30,50-59 ans,Non-vacciné,148
 2021-12-30,50-59 ans,Vacciné 1 dose,32
-2021-12-30,50-59 ans,Vacciné 2 doses,1890
-2021-12-30,60-69 ans,Non-vacciné,36
-2021-12-30,60-69 ans,Vacciné 1 dose,4
-2021-12-30,60-69 ans,Vacciné 2 doses,1074
+2021-12-30,50-59 ans,Vacciné 2 doses,1974
+2021-12-30,60-69 ans,Non-vacciné,39
+2021-12-30,60-69 ans,Vacciné 1 dose,6
+2021-12-30,60-69 ans,Vacciné 2 doses,1125
 2021-12-30,70-79 ans,Non-vacciné,26
 2021-12-30,70-79 ans,Vacciné 1 dose,5
-2021-12-30,70-79 ans,Vacciné 2 doses,384
-2021-12-30,80-89 ans,Non-vacciné,5
+2021-12-30,70-79 ans,Vacciné 2 doses,397
+2021-12-30,80-89 ans,Non-vacciné,6
 2021-12-30,80-89 ans,Vacciné 1 dose,5
-2021-12-30,80-89 ans,Vacciné 2 doses,237
-2021-12-30,90 ans et plus,Non-vacciné,8
-2021-12-30,90 ans et plus,Vacciné 1 dose,1
-2021-12-30,90 ans et plus,Vacciné 2 doses,106
+2021-12-30,80-89 ans,Vacciné 2 doses,242
+2021-12-30,90 ans et plus,Non-vacciné,9
+2021-12-30,90 ans et plus,Vacciné 1 dose,2
+2021-12-30,90 ans et plus,Vacciné 2 doses,109
 2021-12-30,Inconnu,Non-vacciné,0
 2021-12-30,Inconnu,Vacciné 1 dose,0
 2021-12-30,Inconnu,Vacciné 2 doses,0
-2021-12-31,0-9 ans,Non-vacciné,561
-2021-12-31,0-9 ans,Vacciné 1 dose,221
+2021-12-31,0-9 ans,Non-vacciné,642
+2021-12-31,0-9 ans,Vacciné 1 dose,250
 2021-12-31,0-9 ans,Vacciné 2 doses,1
-2021-12-31,10-19 ans,Non-vacciné,208
-2021-12-31,10-19 ans,Vacciné 1 dose,182
-2021-12-31,10-19 ans,Vacciné 2 doses,974
-2021-12-31,20-29 ans,Non-vacciné,284
-2021-12-31,20-29 ans,Vacciné 1 dose,57
-2021-12-31,20-29 ans,Vacciné 2 doses,2067
-2021-12-31,30-39 ans,Non-vacciné,251
-2021-12-31,30-39 ans,Vacciné 1 dose,45
-2021-12-31,30-39 ans,Vacciné 2 doses,1765
-2021-12-31,40-49 ans,Non-vacciné,149
-2021-12-31,40-49 ans,Vacciné 1 dose,34
-2021-12-31,40-49 ans,Vacciné 2 doses,1830
-2021-12-31,50-59 ans,Non-vacciné,96
-2021-12-31,50-59 ans,Vacciné 1 dose,15
-2021-12-31,50-59 ans,Vacciné 2 doses,1598
-2021-12-31,60-69 ans,Non-vacciné,34
-2021-12-31,60-69 ans,Vacciné 1 dose,9
-2021-12-31,60-69 ans,Vacciné 2 doses,864
-2021-12-31,70-79 ans,Non-vacciné,27
+2021-12-31,10-19 ans,Non-vacciné,233
+2021-12-31,10-19 ans,Vacciné 1 dose,209
+2021-12-31,10-19 ans,Vacciné 2 doses,1092
+2021-12-31,20-29 ans,Non-vacciné,328
+2021-12-31,20-29 ans,Vacciné 1 dose,61
+2021-12-31,20-29 ans,Vacciné 2 doses,2300
+2021-12-31,30-39 ans,Non-vacciné,274
+2021-12-31,30-39 ans,Vacciné 1 dose,49
+2021-12-31,30-39 ans,Vacciné 2 doses,1987
+2021-12-31,40-49 ans,Non-vacciné,167
+2021-12-31,40-49 ans,Vacciné 1 dose,41
+2021-12-31,40-49 ans,Vacciné 2 doses,2059
+2021-12-31,50-59 ans,Non-vacciné,111
+2021-12-31,50-59 ans,Vacciné 1 dose,16
+2021-12-31,50-59 ans,Vacciné 2 doses,1782
+2021-12-31,60-69 ans,Non-vacciné,38
+2021-12-31,60-69 ans,Vacciné 1 dose,11
+2021-12-31,60-69 ans,Vacciné 2 doses,961
+2021-12-31,70-79 ans,Non-vacciné,28
 2021-12-31,70-79 ans,Vacciné 1 dose,4
-2021-12-31,70-79 ans,Vacciné 2 doses,392
+2021-12-31,70-79 ans,Vacciné 2 doses,428
 2021-12-31,80-89 ans,Non-vacciné,16
 2021-12-31,80-89 ans,Vacciné 1 dose,1
-2021-12-31,80-89 ans,Vacciné 2 doses,249
-2021-12-31,90 ans et plus,Non-vacciné,9
+2021-12-31,80-89 ans,Vacciné 2 doses,254
+2021-12-31,90 ans et plus,Non-vacciné,10
 2021-12-31,90 ans et plus,Vacciné 1 dose,1
-2021-12-31,90 ans et plus,Vacciné 2 doses,114
+2021-12-31,90 ans et plus,Vacciné 2 doses,116
 2021-12-31,Inconnu,Non-vacciné,0
 2021-12-31,Inconnu,Vacciné 1 dose,0
 2021-12-31,Inconnu,Vacciné 2 doses,0
+2022-01-01,0-9 ans,Non-vacciné,541
+2022-01-01,0-9 ans,Vacciné 1 dose,225
+2022-01-01,0-9 ans,Vacciné 2 doses,1
+2022-01-01,10-19 ans,Non-vacciné,217
+2022-01-01,10-19 ans,Vacciné 1 dose,181
+2022-01-01,10-19 ans,Vacciné 2 doses,1015
+2022-01-01,20-29 ans,Non-vacciné,294
+2022-01-01,20-29 ans,Vacciné 1 dose,63
+2022-01-01,20-29 ans,Vacciné 2 doses,1992
+2022-01-01,30-39 ans,Non-vacciné,257
+2022-01-01,30-39 ans,Vacciné 1 dose,48
+2022-01-01,30-39 ans,Vacciné 2 doses,1720
+2022-01-01,40-49 ans,Non-vacciné,151
+2022-01-01,40-49 ans,Vacciné 1 dose,23
+2022-01-01,40-49 ans,Vacciné 2 doses,1794
+2022-01-01,50-59 ans,Non-vacciné,92
+2022-01-01,50-59 ans,Vacciné 1 dose,16
+2022-01-01,50-59 ans,Vacciné 2 doses,1656
+2022-01-01,60-69 ans,Non-vacciné,50
+2022-01-01,60-69 ans,Vacciné 1 dose,14
+2022-01-01,60-69 ans,Vacciné 2 doses,921
+2022-01-01,70-79 ans,Non-vacciné,31
+2022-01-01,70-79 ans,Vacciné 1 dose,1
+2022-01-01,70-79 ans,Vacciné 2 doses,436
+2022-01-01,80-89 ans,Non-vacciné,9
+2022-01-01,80-89 ans,Vacciné 1 dose,4
+2022-01-01,80-89 ans,Vacciné 2 doses,299
+2022-01-01,90 ans et plus,Non-vacciné,14
+2022-01-01,90 ans et plus,Vacciné 1 dose,3
+2022-01-01,90 ans et plus,Vacciné 2 doses,131
+2022-01-01,Inconnu,Non-vacciné,0
+2022-01-01,Inconnu,Vacciné 1 dose,0
+2022-01-01,Inconnu,Vacciné 2 doses,0
