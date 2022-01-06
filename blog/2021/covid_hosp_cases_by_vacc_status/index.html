@@ -12,7 +12,7 @@
   Axel  Bogos
 
 
-  | blog
+  | Hospitalizations and Cases by Vaccine Status
 
 </title>
 <meta name="description" content="Blog posts
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗻</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://axelbogos.github.io/blog/">
+<link rel="canonical" href="https://axelbogos.github.io/blog/2021/covid_hosp_cases_by_vacc_status/">
 
 
 <!-- Dark Mode -->
@@ -84,14 +84,10 @@
             <a class="nav-link" href="/blog/">
               blog
               
-              <span class="sr-only">(current)</span>
-              
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -161,8 +157,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -179,83 +175,70 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
-
-  <div class="header-bar">
-    <h1>Posts and blog</h1>
-    <h2></h2>
-  </div>
+      
 
 
-  <ul class="post-list">
-    
 
-    
-    
-    
-    
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/covid_hosp_cases_by_vacc_status/">Hospitalizations and Cases by Vaccine Status</a>
-      </h3>
-      <p>A visualization of the differences in hospitalizations and case incidence rates as a function of vaccine status</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        December 30, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
 
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Hospitalizations and Cases by Vaccine Status</h1>
+    <p class="post-meta">December 30, 2021</p>
+    <p class="post-tags">
+      <a href="/blog/2021"> <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+      
+        ·  
+        
+        <a href="/blog/tag/covid">
+          <i class="fas fa-hashtag fa-sm"></i> covid</a>  
           
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/tag/covid">
-              <i class="fas fa-hashtag fa-sm"></i> covid</a> &nbsp;
-              
-            <a href="/blog/tag/visualizations">
-              <i class="fas fa-hashtag fa-sm"></i> visualizations</a> &nbsp;
-              
+        <a href="/blog/tag/visualizations">
+          <i class="fas fa-hashtag fa-sm"></i> visualizations</a>  
           
+      
 
+      
+        ·  
+        
+        <a href="/blog/category/personal-posts">
+          <i class="fas fa-tag fa-sm"></i> personal-posts</a>  
           
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/personal-posts">
-              <i class="fas fa-tag fa-sm"></i> personal-posts</a> &nbsp;
-              
-          
+      
+
     </p>
-    </li>
+  </header>
 
-    
+  <article class="post-content">
+    <h2 id="motivation">Motivation</h2>
+<p>Despite some great visualizations being available for all things COVID (<a href="https://ici.radio-canada.ca/info/2020/coronavirus-covid-19-pandemie-cas-carte-maladie-symptomes-propagation/" target="_blank" rel="noopener noreferrer">Radio-Canada in Canada</a>
+and <a href="https://ourworldindata.org/coronavirus" target="_blank" rel="noopener noreferrer">Our World in Data worldwide</a> to name but two), I have yet to find a single-source visualization of 
+the difference in impact of the current omnicron wave across vaccinated and unvaccinated groups.</p>
 
-    
-    
-    
-    
+<h2 id="visualization">Visualization</h2>
+<iframe width="1000" height="750" frameborder="0" scrolling="yes" src="/assets/figures/Hosps_and_cases_vs_vacc_rate.html"></iframe>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/hockey_analytics/">A Hockey Analytics Post...</a>
-      </h3>
-      <p>A step-by-step intro to querying the NHL's API, extracting and visualizing interesting data</p>
-      <p class="post-meta"> 19 min read &nbsp; &middot; &nbsp;
-        December 30, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<h2 id="sources">Sources</h2>
+<p>Hospitalization &amp; Cases Data:  <a href="https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes" target="_blank" rel="noopener noreferrer">Données Québec</a>
+<br>
+Vaccination Status Data: <a href="https://www.inspq.qc.ca/covid-19/donnees/vaccination" target="_blank" rel="noopener noreferrer">Institut national de
+santé publique du Québec</a> (Figure 2.1 of the link)</p>
 
-          
+<h2 id="code">Code</h2>
+<p>You can check out the Jupyter Notebook <a href="https://drive.google.com/file/d/1A98XA_otgyHjx9yVocbuZVFuTSZ8fOtH/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>. 
+The project will be published as a repository soon.</p>
 
-          
-    </p>
-    </li>
+<h2 id="future-developments">Future Developments</h2>
+<ul>
+  <li>Add a slider to control the moving average period</li>
+  <li>Expand the visualization to other provinces/countries.</li>
+</ul>
 
-    
-  </ul>
+
+  </article>
 
   
-
 
 </div>
 
@@ -266,8 +249,8 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2022 Axel  Bogos.
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    © Copyright 2022 Axel  Bogos.
+    Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
     
     

@@ -12,7 +12,7 @@
   Axel  Bogos
 
 
-  | blog
+  | Reading Understanding with transformers
 
 </title>
 <meta name="description" content="Blog posts
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗻</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://axelbogos.github.io/blog/">
+<link rel="canonical" href="https://axelbogos.github.io/projects/reading_comprehension/">
 
 
 <!-- Dark Mode -->
@@ -80,18 +80,14 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -161,8 +157,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -181,81 +177,34 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Posts and blog</h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Reading Understanding with transformers</h1>
+    <p class="post-description">A SemEval-2021 reading comprehension task approached with Transformers</p>
+  </header>
 
+  <article>
+    <h2 id="abstract">Abstract</h2>
+<p>This project consisted of a task from the SemEval 2021 workshop. SemEval is an international shared task on semantic
+evaluation organized by the Special Interest Group on the Lexicon of the Association for Computational Linguistics1.
+The task chosen is the task four of the 2021 workshop: Reading Comprehension of Abstract Meaning. 
+This task consisted of bench-marking the reading comprehension capabilities of current models.
+The means by which this capability is measured is by predicting a missing word from a summary of a given text from a
+list of choices. That is, the input consists of a text, a summary where a particular word is removed and 5 options
+for the word that best represents the meaning of the text. A example is shown in table 1. The task is subdivided in
+three closely related sub-tasks: sub-task 1 requires the model to perform reading comprehension bench-marking as
+previously described where the missing word represent imperceptible concepts, such as objective, culture or economy.
+The example shown in table 1 belongs to this sub-task. sub-task 2 is concerned with reading comprehension where the
+missing word is a concrete object, like groundhog, or chair. Sub-task 3 evaluates the performance of a model trained
+on one of the sub-task and tested on the other, for instance a model trained to perform reading comprehension on
+imperceptible concepts and tested on text passages where the missing word is a concrete entity. Hence the difference
+in the sub-tasks lies mainly in the data used to train and evaluate the model.</p>
 
-  <ul class="post-list">
-    
+<h2 id="report">Report</h2>
+<iframe src="/assets/pdf/reading_comprehension.pdf" style="width:800px; height:800px;"></iframe>
 
-    
-    
-    
-    
+<p>Thumbnail source: <a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">Jay Alammar’s illustrated Transformer</a></p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/covid_hosp_cases_by_vacc_status/">Hospitalizations and Cases by Vaccine Status</a>
-      </h3>
-      <p>A visualization of the differences in hospitalizations and case incidence rates as a function of vaccine status</p>
-      <p class="post-meta"> 1 min read &nbsp; &middot; &nbsp;
-        December 30, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/tag/covid">
-              <i class="fas fa-hashtag fa-sm"></i> covid</a> &nbsp;
-              
-            <a href="/blog/tag/visualizations">
-              <i class="fas fa-hashtag fa-sm"></i> visualizations</a> &nbsp;
-              
-          
-
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/personal-posts">
-              <i class="fas fa-tag fa-sm"></i> personal-posts</a> &nbsp;
-              
-          
-    </p>
-    </li>
-
-    
-
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2021/hockey_analytics/">A Hockey Analytics Post...</a>
-      </h3>
-      <p>A step-by-step intro to querying the NHL's API, extracting and visualizing interesting data</p>
-      <p class="post-meta"> 19 min read &nbsp; &middot; &nbsp;
-        December 30, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
@@ -266,8 +215,8 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2022 Axel  Bogos.
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    © Copyright 2022 Axel  Bogos.
+    Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
     
     
