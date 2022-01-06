@@ -10,6 +10,10 @@ authors:
   affiliations:
     name: MILA
     url: "https://mila.quebec/en/"
+- name: Marc-André Gagné
+  affiliations:
+  name: MILA
+  url: "https://mila.quebec/en/"
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
