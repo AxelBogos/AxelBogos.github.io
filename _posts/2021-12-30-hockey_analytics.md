@@ -5,15 +5,15 @@ description: A step-by-step intro to querying the NHL's API, extracting and visu
 date: 2021-12-30
 
 authors:
-- name: Axel Bogos
-  url: "https://axelbogos.github.io/"
-  affiliations:
-    name: MILA
-    url: "https://mila.quebec/en/"
-- name: Marc-André Gagné
-  affiliations:
-  name: MILA
-  url: "https://mila.quebec/en/"
+  - name: Axel Bogos
+    url: "https://axelbogos.github.io/"
+    affiliations:
+      name: MILA
+      url: "https://mila.quebec/en/"
+  - name: Marc-André Gagné
+    affiliations:
+      name: MILA
+      url: "https://mila.quebec/en/"
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
